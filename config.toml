@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
     # { etsy = "https://www.etsy.com/shop/butterflymadewithluv/"},
     { instagram = "https://www.instagram.com/butterfly_madewithlove/" },
     { facebook = "https://www.facebook.com/butterflymadewithlove/" },
-    { email = "mailto:mail@butterflymdewithlove.pt" },
+    { email = "mailto:mail@butterflymadewithlove.pt" },
   ]
 
 [markup.highlight]
