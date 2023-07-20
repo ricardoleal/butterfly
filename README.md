@@ -1,2 +1,2 @@
 # butterfly
-Landing page for butterflymadewithlove.pt
+Landing page for www.butterflymadewithlove.pt
