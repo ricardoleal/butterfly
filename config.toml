@@ -1,7 +1,7 @@
 baseURL = "https://butterflymadewithlove.pt/"
 theme = "lynx"
 title = "Butterfly - Made with love"
-
+googleAnalytics = "G-4J8P3LM0SC"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
