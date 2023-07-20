@@ -1,0 +1,25 @@
+baseURL = "https://butterflymadewithlove.pt/"
+theme = "lynx"
+title = "Butterfly - Made with love"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Butterfly - Made with love"
+  headline = "Handmade / Gifts & Essentials"
+  image = "butterfly_logo.jpg"
+  links = [
+    { whatsapp = "https://wa.me/35191000000" },
+    { etsy = "https://www.etsy.com/shop/butterflymadewithluv/"},
+    { instagram = "https://www.instagram.com/butterfly_madewithlove/" },
+    { facebook = "https://www.facebook.com/butterflymadewithlove" },
+    { email = "mailto:mail@butterflymdewithlove.pt" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
