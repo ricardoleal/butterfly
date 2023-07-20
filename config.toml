@@ -10,10 +10,10 @@ disableKinds = ["taxonomy", "term"]
   headline = "Handmade / Gifts & Essentials"
   image = "butterfly_logo.jpg"
   links = [
-    { whatsapp = "https://wa.me/35191000000" },
-    { etsy = "https://www.etsy.com/shop/butterflymadewithluv/"},
+    { whatsapp = "https://wa.me/351919941876" },
+    # { etsy = "https://www.etsy.com/shop/butterflymadewithluv/"},
     { instagram = "https://www.instagram.com/butterfly_madewithlove/" },
-    { facebook = "https://www.facebook.com/butterflymadewithlove" },
+    { facebook = "https://www.facebook.com/butterflymadewithlove/" },
     { email = "mailto:mail@butterflymdewithlove.pt" },
   ]
 
